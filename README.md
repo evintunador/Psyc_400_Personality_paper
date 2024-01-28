@@ -1,0 +1,1 @@
+This repo is of an argument paper I wrote for a psychology class. Usually I publish unfinished papers of original ideas I was pursuing, but i just kinda felt like adding this one to the pile. If you'd like to see thoses, check out the full list [here](https://github.com/stars/evintunador/lists/research-papers). Also on that list are any currently in-progress papers
